@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=UIMainWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ UIMainWorld\ here.\r\n\ \r\n\ Name\:\ Emmanuel\ Olaniyanu\r\n\ Teacher\:\ Mr.\ Hardman\r\n\ Lab\ \#7,\ CoffeeShop\r\n\ Date\ Last\ Modified\:\ 06/06/2017\r\n\ \r\n
+comment1.params=
+comment1.target=UIMainWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ startScreen()
+comment2.text=\r\n\ startScreen\ creates\ the\ menu\ for\ the\ program\ and\ prepares\ the\ program\ to\ start\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ salesScreen()
+comment3.text=\r\n\ salesScreen\ displays\ the\ salesScreen\ to\ the\ user\ in\ the\ world\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment4.params=
+comment4.target=void\ thankYou()
+comment4.text=\r\n\ thankYou\ stops\ the\ program\ and\ displays\ a\ farewell\ text\ to\ the\ user\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment5.params=
+comment5.target=void\ act()
+comment6.params=
+comment6.target=void\ calculateSale()
+comment6.text=\r\n\ calculateSale\ displays\ the\ details\ of\ the\ sale\ like\ the\ total\ price\ and\ number\ of\ items\ bought.\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment7.params=si
+comment7.target=void\ addItem(SalesItem)
+comment7.text=\r\n\ addItem\ adds\ the\ new\ SalesItem\ into\ the\ salesItems\ array\ and\ one\ to\ the\ variable\ that\ stores\ the\ number\ of\ Items\ added\r\n\ \r\n\ @param\ si\ is\ the\ newly\ added\ salesItem\ object.\r\n\ @return\ Nothing\ is\ returned\r\n
+comment8.params=
+comment8.target=void\ clearScreen()
+comment8.text=\r\n\ clearScreen\ clears\ the\ screen\ of\ all\ objects\ and\ text\ and\ empties\ the\ list\ of\ objects\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+numComments=9

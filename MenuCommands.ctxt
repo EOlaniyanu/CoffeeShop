@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MenuCommands
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MenuCommands\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=idx\ w
+comment1.target=void\ execute(int,\ greenfoot.World)
+comment1.text=\r\n\ execute\ prints\ the\ menu\ commands\ in\ the\ system.\r\n\ \r\n\ @param\ idx\ represents\ whih\ menu\ option\ was\ clicked\r\n\ @param\ w\ is\ the\ variable\ that\ represents\ UIMainWorld\r\n\ @return\ Nothing\ is\ returned.\r\n
+numComments=2

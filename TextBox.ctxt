@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=TextBox
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ TextBox\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=TextBox()
+comment2.params=message\ fs\ b\ fg\ bg
+comment2.target=TextBox(java.lang.String,\ int,\ boolean,\ java.awt.Color,\ java.awt.Color)
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ -\ do\ whatever\ the\ TextBox\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment4.params=message
+comment4.target=void\ setText(java.lang.String)
+comment4.text=\r\n\ setText\ sets\ the\ text\ of\ the\ TextBox\ to\ the\ String\ message\ parameter\r\n\ \r\n\ @param\ message\ is\ the\ String\ that\ TextBox\ will\ display.\r\n\ @return\ Nothing\ is\ returned.\r\n
+comment5.params=
+comment5.target=void\ display()
+comment5.text=\r\n\ display\ changes\ the\ image\ of\ the\ TextBox\ to\ the\ img\ changes\ its\ color\ based\ on\ the\ image.\r\n\ \r\n\ @param\ There\ are\ no\ parameters.\r\n\ @return\ Nothing\ is\ returned.\r\n
+numComments=6

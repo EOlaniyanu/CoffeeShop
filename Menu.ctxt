@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Menu\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Menu()
+comment2.params=tb\ items\ fs\ fgMain\ bgMain\ fgSecond\ bgSecond\ mc
+comment2.target=Menu(java.lang.String,\ java.lang.String,\ int,\ java.awt.Color,\ java.awt.Color,\ java.awt.Color,\ java.awt.Color,\ MenuCommands)
+comment3.params=w
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment3.text=\r\n\ addedToWorld\ adds\ the\ desired\ titleBar\ to\ the\ world\ and\ gets\ the\ Height\ of\ the\ title\ and\ the\ Height\ of\ the\ menu.\r\n\ \r\n\ @param\ w\ is\ the\ a\ parameter\ for\ UIMainWorld.\r\n\ @return\ Nothing\ is\ returned.\r\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ Act\ -\ do\ whatever\ the\ Menu\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment5.params=
+comment5.target=void\ handleMouse()
+comment5.text=\r\n\ handleMouse\ controls\ the\ mouses\ interactions\ with\ the\ menu.\r\n\ \r\n\ @param\ There\ are\ no\ parameters.\r\n\ @return\ Nothing\ is\ returned.\r\n
+numComments=6
